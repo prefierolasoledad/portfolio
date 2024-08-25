@@ -1,0 +1,23 @@
+#skills-data{
+    width: 75%;
+    height: 300px;
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+}
+
+#skills-data div{
+    width: 30%;
+    height: 100%;
+}
+
+#skills-data div h3{
+    margin-top: 0px;
+    color: rgb(108, 188, 188);
+    font-size: 100px;
+    margin-bottom: 0px;
+}
+
+#skills-data div p{
+    font-size: 20px;
+}

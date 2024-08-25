@@ -1,0 +1,38 @@
+#hero-section-background{
+    background-image: url('../Images/portfolio-herosection-background-image.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 711.5px;
+}
+
+.hero-section-heading-section{
+    width: 100%;
+    height: 60%;
+    margin-top: 18.5%;
+}
+
+.hero-section-heading-section h1{
+    color: white;
+    font-size: 100px;
+}
+
+.hero-section-heading-section p{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: -100px;
+}
+
+#explore-now{
+    border: none;
+    background-color:transparent;
+    width: 200px;
+    height: 80px;
+    border-radius: 100px;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    border: 3px solid white;
+    margin-top: 30px;
+}

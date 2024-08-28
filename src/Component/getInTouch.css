@@ -1,0 +1,33 @@
+.get-in-touch{
+    width: 100%;
+    height: 650.5px;
+    background-color: rgb(255, 183, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-in-touch-heading{
+    width: 50%;
+}
+
+.get-in-touch-heading h2{
+    margin-top: 0px;
+    font-size: 75px;
+}
+
+.get-in-touch-heading p{
+    font-size: 27px;
+}
+
+#get-in-touch-button-two{
+    border: none;
+    background-color: rgb(56, 185, 237);
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 25px;
+    border-radius: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}

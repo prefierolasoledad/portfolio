@@ -6,7 +6,7 @@ const SkillsData=()=>{
         <section id="skills-data">
             <div>
                 <h3>
-                    10+
+                    5+
                 </h3>
                 <p>
                     Projects Completed

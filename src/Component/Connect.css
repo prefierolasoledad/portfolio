@@ -1,0 +1,29 @@
+#connect-with h1{
+    margin-top: 150px;
+    font-size: 65px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#connect-with-main-div{
+    margin-top: -100px;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    justify-content: center;
+}
+
+#connect-with-main-div div{
+    width: 500px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#connect-with-main-div div div{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+}

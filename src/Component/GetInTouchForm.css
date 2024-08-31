@@ -1,0 +1,69 @@
+#get-in-touch-form-section{
+    width: 100%;
+    height: 711.5px;
+    background-color: rgb(247, 227, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#get-in-touch-form{
+    /* background-color: azure; */
+    width: 900px;
+}
+
+#get-in-touch-heading{
+    margin-top: 0px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#name-email{
+    width: 100%;
+}
+
+#input ,[type="text"],[type="email"]{
+    border:none;
+    width: 40%;
+    margin-left: 3%;
+    margin-bottom: 30px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px rgb(139, 138, 138);
+    padding: 5px 20px;
+}
+
+#input ,[type="tel"]{
+    border:none;
+    margin-left: 30px;
+    width: 87%;
+    height: 50px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    box-shadow: 0px 0px 5px rgb(139, 138, 138);
+    padding: 5px 25px;
+}
+
+#message{
+    border:none;
+    margin-left: 30px;
+    width: 87%;
+    height: 60px;
+    border-radius: 50px;
+    font-size: 20px;
+    box-shadow: 0px 0px 5px rgb(139, 138, 138);
+    padding: 15px 25px;
+}
+
+#submit-get-un-touch-form{
+    border: none;
+    margin-top: 50px;
+    font-size: 30px;
+    padding: 15px 30px;
+    background-color: rgb(94, 183, 208);
+    color: white;
+    border-radius: 40px;
+    font-weight: 600;
+}

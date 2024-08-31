@@ -8,6 +8,10 @@ import FillerOne from "../Component/FillerOne";
 import ProjectShowCasing from "../Component/ProjectShowCasing";
 import GetInTouch from "../Component/getInTouch";
 import FillerTwo from "../Component/FillerTwo";
+import Connect from "../Component/Connect";
+import GetInTouchForm from "../Component/GetInTouchForm";
+import Contact from "../Component/Contact";
+import Footer from "../Component/Footer";
 
 const HomePage = ()=>{
     return(
@@ -20,6 +24,10 @@ const HomePage = ()=>{
             <ProjectShowCasing/>
             <GetInTouch/>
             <FillerTwo/>
+            <Connect/>
+            <GetInTouchForm/>
+            <Contact/>
+            <Footer/>
         </section>
     );
 }
